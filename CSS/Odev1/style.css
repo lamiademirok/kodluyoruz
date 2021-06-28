@@ -1,0 +1,76 @@
+body{
+    font-family: 'Raleway',sans-serif;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+p{
+    color:#000000;
+}
+
+.navbar{
+    text-align: center;
+    font-size: 16px;
+}
+
+ul{
+    display:inline-flex;
+    list-style: None;
+}
+a:link,a:visited{
+    text-decoration: None;
+    color: #000000;
+}
+
+a:hover{
+    color:#da7f8f;
+}
+
+h1,h2:hover{
+    color: #3c415c;
+    transition: color 2s ease-out 100ms;
+    }
+
+
+    .content{
+        background-image: url(https://cdn.hipwallpaper.com/i/45/74/lXIS7a.jpg);
+        color: black;
+        height: 500px;
+        border-radius: 16px;
+        border: transparent;
+    }
+    .sidebar{
+    
+        width: 300px;
+        position: absolute;
+        margin-right:300px;
+        padding-top:50px;
+        margin-left:350px;
+      height: 500px;
+      overflow-y: auto;
+
+    }
+    .content{
+        padding-top:50px;
+        padding-left:400px;
+        padding-right:50px;
+        margin-left:300px;
+        margin-right: 250px;
+        overflow-y: auto;
+    }
+
+article{
+  margin-left:250px;
+  margin-right:250px;
+  padding-right:160px;
+  padding-left:160px;
+}
+
+#first{
+  border-radius:16px 16px 0px 0px;
+}
+#last{
+  border-radius: 0px 0px 16px 16px;
+}
