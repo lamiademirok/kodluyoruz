@@ -1,2 +1,2 @@
-# Kodluyoruz
-
+# PATİKA.DEV FRONT-END PATİKASI PROJELERİM
+<br> 
