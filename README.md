@@ -6,6 +6,9 @@ Frontend patikası boyunca üzerinde çalıştığım projelerin linklerine ula�
 <h2> CLOCK </h2>
 <li><a href="https://github.com/lamiademirok/patikaDev/tree/main/JS/Odev1"> CLOCK </a></li>
 
+<h2> MEDIUM CLONE V.1 </h2>
+<li><a href="https://github.com/lamiademirok/patikaDev/tree/main/mediumClone">MEDIUM CLONE </a></li>
+
 <h2>ABOUT ME </h2>
 <li><a href="https://github.com/lamiademirok/patikaDev/blob/main/HTML/Odev1/index.html"> ABOUT ME 1 </a></li>
 <li><a href="https://github.com/lamiademirok/patikaDev/blob/main/HTML/Odev2/index.html"> ABOUT ME 2 </a></li>
