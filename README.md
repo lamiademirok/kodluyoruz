@@ -14,7 +14,7 @@ Frontend patikası boyunca üzerinde çalıştığım projelerin linklerine ula�
 <li><a href="https://github.com/lamiademirok/patikaDev/blob/main/HTML/Odev2/index.html"> ABOUT ME 2 </a></li>
 
 <h2> PAGE - BOOTSTRAP </h2>
-<li><a href="https://github.com/lamiademirok/patikaDev/tree/main/bootstrapPage">MEDIUM CLONE </a></li>
+<li><a href="https://github.com/lamiademirok/patikaDev/tree/main/bootstrapPage">BOOTSTRAP PAGE </a></li>
 
 <h2>GOOGLE 1998 CLONE </h2>
 <li><a href="https://github.com/lamiademirok/patikaDev/tree/main/HTML/Odev3"> GOOGLE 1998 CLONE </a></li>
