@@ -1,0 +1,22 @@
+body{
+    letter-spacing: 1px;
+    background-color: #E9ECEF;
+}
+.full-img {
+    background-image: url(https://images.pexels.com/photos/2832432/pexels-photo-2832432.png?auto=compress&cs=tinysrgb&dpr=1&w=800);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+}
+
+.pink{
+    background-color: rgba(223, 164, 174, 0.4);
+    margin-bottom:4px;
+}
+.pink:hover{
+    background-color: rgb(223, 164, 174);
+    transition: 0.8s;
+    cursor: default;
+
+}
